@@ -3,6 +3,7 @@ tags:
   - next
   - config
   - urls
+  - front-end
 ---
 - [[#📌 Context|📌 Context]]
 - [[#`.env.development`|`.env.development`]]
