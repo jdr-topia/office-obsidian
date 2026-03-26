@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Network tab info.md",
+                "file": "Notes/Role-Based Access Control (RBAC) — Production Guide.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network tab info"
+              "title": "Role-Based Access Control (RBAC) — Production Guide"
             }
           }
         ]
@@ -186,16 +186,6 @@
               "icon": "lucide-info",
               "title": "File properties for Rebase"
             }
-          },
-          {
-            "id": "d48ee9c7c2e277b7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 1
@@ -207,7 +197,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -221,9 +210,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/API Status codes.md",
-    "Notes/Next.js Configuration.md",
+    "Notes/NextAuth.md",
+    "Notes/Role-Based Access Control (RBAC) — Production Guide.md",
     "Notes/Network tab info.md",
+    "Notes/Next.js Rendering Strategies (Complete Guide).md",
+    "Notes/Next.js Configuration.md",
+    "Notes/API Status codes.md",
     "Notes/Rebase.md",
     "Agent Skills/create_zustand_store.md",
     "Agent Skills/add_api_service_mock.md",
