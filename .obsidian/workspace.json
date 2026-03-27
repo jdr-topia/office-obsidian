@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ffc33a7d0b1e478",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab8ee6b4507f3dbe",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab8ee6b4507f3dbe",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Notes/NextAuth.md",
     "Notes/Rebase.md",
