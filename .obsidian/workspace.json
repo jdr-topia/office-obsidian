@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Network tab info.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Network tab info"
             }
           }
         ]
@@ -216,19 +220,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Next.js Configuration.md",
-    "Notes/Network tab info.md",
     "Notes/API Status codes.md",
-    "Notes/NextAuth.md",
-    "Notes/Next.js Rendering Strategies (Complete Guide).md",
-    "Notes/Rebase.md",
-    "Notes/Role-Based Access Control (RBAC) — Production Guide.md",
+    "Agent Skills/ui-from-rererence.md",
     "Agent Skills/create_zustand_store.md",
-    "Agent Skills/add_api_service_mock.md",
+    "Agent Skills/create_formik.md",
     "Agent Skills/create_feature_module.md",
     "Agent Skills/color_scheme.md",
-    "Agent Skills/ui-from-rererence.md",
-    "Agent Skills/create_formik.md",
+    "Agent Skills/add_api_service_mock.md",
+    "Notes/NextAuth.md",
+    "Notes/Rebase.md",
+    "Notes/Role-Based Access Control (RBAC) — Production Guide.md",
+    "Notes/Next.js Rendering Strategies (Complete Guide).md",
+    "Notes/Next.js Configuration.md",
+    "Notes/Network tab info.md",
     "Agent Skills",
     "attachments",
     "Notes",
