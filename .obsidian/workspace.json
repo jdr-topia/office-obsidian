@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Next.js Configuration.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Next.js Configuration"
+              "title": "New tab"
             }
           }
         ]
@@ -220,9 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Next.js Configuration.md",
     "Notes/Network tab info.md",
     "Notes/API Status codes.md",
-    "Notes/Next.js Configuration.md",
     "Notes/NextAuth.md",
     "Notes/Next.js Rendering Strategies (Complete Guide).md",
     "Notes/Rebase.md",
