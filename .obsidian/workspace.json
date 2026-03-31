@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Role-Based Access Control (RBAC) — Production Guide"
             }
+          },
+          {
+            "id": "7bd69a0d0d05f542",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +229,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7bd69a0d0d05f542",
   "lastOpenFiles": [
+    "Notes/Role-Based Access Control (RBAC) — Production Guide.md",
     "Notes/Network tab info.md",
     "Notes/API Status codes.md",
     "Agent Skills/ui-from-rererence.md",
@@ -230,7 +242,6 @@
     "Agent Skills/add_api_service_mock.md",
     "Notes/NextAuth.md",
     "Notes/Rebase.md",
-    "Notes/Role-Based Access Control (RBAC) — Production Guide.md",
     "Notes/Next.js Rendering Strategies (Complete Guide).md",
     "Notes/Next.js Configuration.md",
     "Agent Skills",
