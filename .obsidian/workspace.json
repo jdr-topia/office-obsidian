@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SPA vs MPA.md",
+                "file": "Notes/Frontend system design MOC.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPA vs MPA"
+              "title": "Frontend system design MOC"
             }
           }
         ]
@@ -220,6 +220,22 @@
   },
   "active": "b3366235f4afd4b3",
   "lastOpenFiles": [
+    "Notes/Frontend system design MOC.md",
+    "Notes/Frontend MOC.md",
+    "Notes/State management MOC.md",
+    "Notes/Static site generation (SSG).md",
+    "Notes/SPA vs MPA.md",
+    "Notes/Derived state and memoization.md",
+    "Notes/Server state management.md",
+    "Notes/Global state management.md",
+    "Notes/Local state in React.md",
+    "Notes/Islands architecture.md",
+    "Notes/Hydration and partial hydration.md",
+    "Notes/Streaming SSR.md",
+    "Notes/Incremental static regeneration (ISR).md",
+    "Notes/Server side rendering (SSR).md",
+    "Notes/Client side rendering (CSR).md",
+    "Notes/Rendering strategies MOC.md",
     "Notes/Requirement analysis in frontend design.md",
     "Notes/Internationalization (i18n).md",
     "Notes/Next.js Rendering Strategies (Complete Guide).md",
@@ -230,22 +246,6 @@
     "Notes/Performance requirements.md",
     "Notes/React server components.md",
     "Notes/CDN usage in frontend.md",
-    "Notes/Backend for Frontend (BFF).md",
-    "Notes/SPA vs MPA.md",
-    "Notes/High level architecture MOC.md",
-    "Notes/SEO considerations in frontend design.md",
-    "Notes/Accessibility requirements.md",
-    "Notes/Scalability in frontend systems.md",
-    "Agent Skills/add_api_service_mock.md",
-    "Notes/Functional vs non-functional requirements.md",
-    "Notes/Frontend system design MOC.md",
-    "Agent Skills/knowledge-base-architect/SKILL.md",
-    "Notes/TypeScript Core Mastery Notes.md",
-    "Agent Skills/knowledge-base-architect/templates/moc.md",
-    "Notes/Frontend MOC.md",
-    "Notes/NextAuth.md",
-    "conflict-files-obsidian-git.md",
-    "Notes/API Status codes.md",
     "Agent Skills",
     "attachments",
     "Notes",
