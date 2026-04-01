@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "SKILL"
             }
+          },
+          {
+            "id": "7e49fc7d1a77d409",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Notes/TypeScript Core Mastery Notes.md",
+                "bFile": "Notes/TypeScript Core Mastery Notes.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: TypeScript Core Mastery Notes  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +234,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ff0e429e309a517",
+  "active": "7e49fc7d1a77d409",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Agent Skills/knowledge-base-architect/SKILL.md",
+    "Notes/TypeScript Core Mastery Notes.md",
     "Notes/API Status codes.md",
     "Notes/Frontend MOC.md",
     "Notes/Next.js Rendering Strategies (Complete Guide).md",
