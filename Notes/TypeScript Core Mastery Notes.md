@@ -28,7 +28,7 @@ Understanding the "levels" of types to avoid logic errors.
 TypeScript is "Shape-based," not "Name-based."
 
 - **Definition**: If it walks like a duck and quacks like a duck, it’s a duck.
-- **Logic**: If an object has the required properties of an interface, it is accepted, even if it has extra properties not defined in that interface.
+- **Logic**: If an object has the required properties of an interface, it is accepted, even if it has extra properties not defined in that interface. test.
 
 ---
 
