@@ -1,8 +1,10 @@
 ---
-tags:
-  - next
-  - rendering-strategy
+created: 2026-04-01
+tags: [concept, how-to]
+related: [ [[Rendering strategies MOC]], [[SPA vs MPA]], [[SEO considerations in frontend design]], [[Frontend system design MOC]], [[React server components]] ]
+status: active
 ---
+
 
 - [[#1. Server-Side Rendering (SSR)|1. Server-Side Rendering (SSR)]]
 	- [[#1. Server-Side Rendering (SSR)#What it is|What it is]]
@@ -595,3 +597,13 @@ Client → interactive
 Edge → fast global logic
 ```
 
+---
+
+## Related Notes
+- [[Rendering strategies MOC]]
+- [[SPA vs MPA]]
+- [[SEO considerations in frontend design]]
+- [[React server components]]
+- [[Hydration and partial hydration]]
+- [[Islands architecture]]
+- [[Frontend system design MOC]]
