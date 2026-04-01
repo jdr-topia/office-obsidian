@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a35f259f5d9adcb2",
+        "id": "3cdec6d7b68c9467",
         "type": "tabs",
         "children": [
           {
-            "id": "b3366235f4afd4b3",
+            "id": "d3dd8294e836f513",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Frontend system design MOC.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Frontend system design MOC"
+              "title": "New tab"
             }
           }
         ]
@@ -171,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -218,10 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3366235f4afd4b3",
+  "active": "d3dd8294e836f513",
   "lastOpenFiles": [
-    "Notes/Frontend system design MOC.md",
+    "Notes/Islands architecture.md",
     "Notes/Frontend MOC.md",
+    "Notes/Frontend system design MOC.md",
+    "Notes/Content Security Policy (CSP).md",
     "Notes/State management MOC.md",
     "Notes/Static site generation (SSG).md",
     "Notes/SPA vs MPA.md",
@@ -229,7 +227,6 @@
     "Notes/Server state management.md",
     "Notes/Global state management.md",
     "Notes/Local state in React.md",
-    "Notes/Islands architecture.md",
     "Notes/Hydration and partial hydration.md",
     "Notes/Streaming SSR.md",
     "Notes/Incremental static regeneration (ISR).md",
@@ -245,7 +242,6 @@
     "Notes/Network tab info.md",
     "Notes/Performance requirements.md",
     "Notes/React server components.md",
-    "Notes/CDN usage in frontend.md",
     "Agent Skills",
     "attachments",
     "Notes",
