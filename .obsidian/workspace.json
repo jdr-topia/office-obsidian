@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "fa8d123abc86f108",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "b1b2829a4048f444",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -214,11 +214,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b1b2829a4048f444",
   "lastOpenFiles": [
+    "Notes/Fallback UI patterns.md",
+    "Notes/API error handling.md",
+    "Notes/Error boundaries in React.md",
+    "Notes/Error handling MOC.md",
+    "Notes/Authentication with NextAuth.md",
+    "Notes/RBAC in frontend.md",
+    "Notes/OAuth and social login.md",
+    "Notes/Session vs JWT authentication.md",
+    "Notes/Authentication and authorization MOC.md",
+    "Notes/Accessibility requirements.md",
+    "Notes/Frontend system design MOC.md",
     "Notes/Islands architecture.md",
     "Notes/Frontend MOC.md",
-    "Notes/Frontend system design MOC.md",
     "Notes/Content Security Policy (CSP).md",
     "Notes/State management MOC.md",
     "Notes/Static site generation (SSG).md",
@@ -232,16 +242,6 @@
     "Notes/Incremental static regeneration (ISR).md",
     "Notes/Server side rendering (SSR).md",
     "Notes/Client side rendering (CSR).md",
-    "Notes/Rendering strategies MOC.md",
-    "Notes/Requirement analysis in frontend design.md",
-    "Notes/Internationalization (i18n).md",
-    "Notes/Next.js Rendering Strategies (Complete Guide).md",
-    "Notes/Next.js Configuration.md",
-    "Notes/ARIA attributes.md",
-    "Notes/Monolith vs micro-frontend.md",
-    "Notes/Network tab info.md",
-    "Notes/Performance requirements.md",
-    "Notes/React server components.md",
     "Agent Skills",
     "attachments",
     "Notes",
