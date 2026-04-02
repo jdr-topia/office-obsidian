@@ -51,18 +51,21 @@ A comprehensive map of all topics required to design scalable, performant, and m
 
 ## 5. Data fetching strategy
 > How your frontend talks to backend APIs.
-- [[Data fetching MOC]]
+- [[Data fetching strategy MOC]]
+- [[REST API vs GraphQL in frontend]]
+- [[Pagination and infinite scrolling]]
+- [[Optimistic updates and retry strategies]]
 - [[REST API integration]]
 - [[GraphQL integration]]
-- [[Pagination and infinite scrolling]]
-- [[Optimistic updates]]
 - [[Request deduplication and batching]]
 
 ## 6. Performance optimization
 > Making your app fast for real users.
 - [[Performance optimization MOC]]
-- [[Core web vitals]]
-- [[Code splitting and lazy loading]]
+- [[Core web vitals and metrics]]
+- [[Code and bundle optimization]]
+- [[Asset optimization in Next.js]]
+- [[Network optimization patterns]]
 - [[Virtualization]]
 - [[Image and font optimization]]
 - [[HTTP caching and prefetching]]

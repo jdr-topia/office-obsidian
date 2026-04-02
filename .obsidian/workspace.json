@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cdec6d7b68c9467",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d3dd8294e836f513",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3dd8294e836f513",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Notes/Islands architecture.md",
     "Notes/Frontend MOC.md",

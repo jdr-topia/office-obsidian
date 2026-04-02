@@ -1,10 +1,12 @@
 ---
-tags:
-  - next
-  - config
-  - urls
-  - front-end
+created: 2026-04-02
+tags: [concept, next-js]
+related: [ [[Frontend system design MOC]], [[Build and deployment MOC]], [[Network optimization patterns]] ]
+status: active
 ---
+
+# Next.js configuration
+
 - [[#📌 Context|📌 Context]]
 - [[#`.env.development`|`.env.development`]]
 - [[#🔹 `NEXT_PUBLIC_BASE_URL`|🔹 `NEXT_PUBLIC_BASE_URL`]]
@@ -632,5 +634,10 @@ And infrastructure sits above everything.
     
 - One app → one basePath.
     
-- Multiple apps on one domain → infrastructure routing.
-    
+- ---
+
+## Related Notes
+- [[Frontend system design MOC]]
+- [[Build and deployment MOC]]
+- [[Network optimization patterns]]
+- [[CDN usage in frontend]]
