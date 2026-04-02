@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa8d123abc86f108",
+        "id": "2711513c0a3eddcf",
         "type": "tabs",
         "children": [
           {
-            "id": "b1b2829a4048f444",
+            "id": "d65ce23805337a09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Optimistic updates and retry strategies.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Optimistic updates and retry strategies"
             }
           }
         ]
@@ -214,15 +218,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1b2829a4048f444",
+  "active": "d65ce23805337a09",
   "lastOpenFiles": [
+    "Notes/OAuth and social login.md",
+    "Notes/Next.js Configuration.md",
+    "Notes/Error boundaries in React.md",
+    "Notes/Derived state and memoization.md",
+    "Notes/Client side routing.md",
+    "Notes/Compound components.md",
     "Notes/Fallback UI patterns.md",
     "Notes/API error handling.md",
-    "Notes/Error boundaries in React.md",
     "Notes/Error handling MOC.md",
     "Notes/Authentication with NextAuth.md",
     "Notes/RBAC in frontend.md",
-    "Notes/OAuth and social login.md",
     "Notes/Session vs JWT authentication.md",
     "Notes/Authentication and authorization MOC.md",
     "Notes/Accessibility requirements.md",
@@ -233,15 +241,11 @@
     "Notes/State management MOC.md",
     "Notes/Static site generation (SSG).md",
     "Notes/SPA vs MPA.md",
-    "Notes/Derived state and memoization.md",
     "Notes/Server state management.md",
     "Notes/Global state management.md",
     "Notes/Local state in React.md",
     "Notes/Hydration and partial hydration.md",
     "Notes/Streaming SSR.md",
-    "Notes/Incremental static regeneration (ISR).md",
-    "Notes/Server side rendering (SSR).md",
-    "Notes/Client side rendering (CSR).md",
     "Agent Skills",
     "attachments",
     "Notes",
