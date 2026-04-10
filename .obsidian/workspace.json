@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "55fcc9a7076e6e43",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "d7dd1b34662c270d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/API error handling.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "API error handling"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -218,8 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d7dd1b34662c270d",
   "lastOpenFiles": [
+    "Notes/API error handling.md",
     "Notes/E2E testing with Playwright.md",
     "Notes/Component testing with React Testing Library.md",
     "Notes/Unit testing with Jest and Vitest.md",
@@ -245,7 +242,6 @@
     "Notes/Server sent events (SSE).md",
     "Notes/WebSockets.md",
     "Notes/Real time communication MOC.md",
-    "Notes/Stale-while-revalidate.md",
     "Agent Skills",
     "attachments",
     "Notes",

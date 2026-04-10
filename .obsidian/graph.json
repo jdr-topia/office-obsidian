@@ -6,7 +6,120 @@
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#moc",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#authentication OR tag:#security OR tag:#jwt OR tag:#oauth OR tag:#rbac OR tag:#csrf OR tag:#xss OR tag:#csp",
+      "color": {
+        "a": 1,
+        "rgb": 16729344
+      }
+    },
+    {
+      "query": "tag:#caching OR tag:#service-worker OR tag:#pwa OR tag:#offline",
+      "color": {
+        "a": 1,
+        "rgb": 16753920
+      }
+    },
+    {
+      "query": "tag:#real-time OR tag:#websockets OR tag:#sse OR tag:#polling",
+      "color": {
+        "a": 1,
+        "rgb": 16763904
+      }
+    },
+    {
+      "query": "tag:#performance OR tag:#web-vitals OR tag:#bundler OR tag:#network",
+      "color": {
+        "a": 1,
+        "rgb": 5111808
+      }
+    },
+    {
+      "query": "tag:#ui-architecture OR tag:#react-patterns",
+      "color": {
+        "a": 1,
+        "rgb": 2441983
+      }
+    },
+    {
+      "query": "tag:#routing OR tag:#spa",
+      "color": {
+        "a": 1,
+        "rgb": 4325375
+      }
+    },
+    {
+      "query": "tag:#accessibility OR tag:#a11y OR tag:#aria",
+      "color": {
+        "a": 1,
+        "rgb": 8716543
+      }
+    },
+    {
+      "query": "tag:#i18n OR tag:#rtl OR tag:#internationalization",
+      "color": {
+        "a": 1,
+        "rgb": 12517631
+      }
+    },
+    {
+      "query": "tag:#testing OR tag:#e2e OR tag:#unit-testing",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "tag:#observability OR tag:#monitoring OR tag:#logging OR tag:#feature-flags",
+      "color": {
+        "a": 1,
+        "rgb": 16711808
+      }
+    },
+    {
+      "query": "tag:#design-systems OR tag:#component-library OR tag:#storybook",
+      "color": {
+        "a": 1,
+        "rgb": 13369549
+      }
+    },
+    {
+      "query": "tag:#scalability OR tag:#monorepo OR tag:#module-federation",
+      "color": {
+        "a": 1,
+        "rgb": 16744576
+      }
+    },
+    {
+      "query": "tag:#build OR tag:#ci-cd OR tag:#deployment OR tag:#cdn OR tag:#edge",
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
+    },
+    {
+      "query": "tag:#dx OR tag:#typescript OR tag:#eslint OR tag:#git",
+      "color": {
+        "a": 1,
+        "rgb": 6697881
+      }
+    },
+    {
+      "query": "tag:#error-handling OR tag:#resilience",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -18,5 +131,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.7132754626224411,
-  "close": false
+  "close": true
 }
