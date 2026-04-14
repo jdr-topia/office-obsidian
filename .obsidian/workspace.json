@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/CDN usage in frontend.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CDN usage in frontend"
             }
           }
         ]
@@ -216,6 +220,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Frontend error monitoring.md",
+    "Notes/CDN usage in frontend.md",
+    "Notes/Frontend MOC.md",
     "Notes/API error handling.md",
     "Notes/E2E testing with Playwright.md",
     "Notes/Component testing with React Testing Library.md",
@@ -223,7 +230,6 @@
     "Notes/Testing strategy MOC.md",
     "Notes/Feature flags and A-B testing.md",
     "Notes/Performance monitoring.md",
-    "Notes/Frontend error monitoring.md",
     "Notes/Observability and monitoring MOC.md",
     "Notes/Progressive Web Apps (PWA).md",
     "Notes/Service workers.md",
@@ -240,8 +246,6 @@
     "Notes/Session vs JWT authentication.md",
     "Notes/Polling and long polling.md",
     "Notes/Server sent events (SSE).md",
-    "Notes/WebSockets.md",
-    "Notes/Real time communication MOC.md",
     "Agent Skills",
     "attachments",
     "Notes",
