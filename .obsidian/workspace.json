@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55fcc9a7076e6e43",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d7dd1b34662c270d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7dd1b34662c270d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Notes/API error handling.md",
     "Notes/E2E testing with Playwright.md",
