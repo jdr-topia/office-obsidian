@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Backend for Frontend (BFF).md",
+                "file": "Notes/Streaming SSR.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend for Frontend (BFF)"
+              "title": "Streaming SSR"
             }
           }
         ]
@@ -220,6 +220,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Streaming SSR.md",
+    "Notes/Authentication and authorization MOC.md",
+    "Notes/Backend for Frontend (BFF).md",
     "Notes/REST API vs GraphQL in frontend.md",
     "Notes/Frontend system design MOC.md",
     "Notes/Frontend MOC.md",
@@ -243,9 +246,6 @@
     "Notes/Translation loading strategies.md",
     "Notes/RTL support.md",
     "Notes/Keyboard navigation and focus management.md",
-    "Notes/Semantic HTML.md",
-    "Notes/Accessibility (a11y) MOC.md",
-    "Notes/Session vs JWT authentication.md",
     "Agent Skills",
     "attachments",
     "Notes",
