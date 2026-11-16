@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js Configuration Deep Dive.md",
+                "file": "Notes/Container vs presentational components.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Next.js Configuration Deep Dive"
+              "title": "Outline"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Role-Based Access Control (RBAC) — Production Guide.md"
+                "file": "Notes/Container vs presentational components.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Role-Based Access Control (RBAC) — Production Guide"
+              "title": "File properties"
             }
           },
           {
@@ -220,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9a1c2bf9c4fdc1a",
+  "active": "05acc610d0a9748c",
   "lastOpenFiles": [
     "Notes/UI architecture MOC.md",
     "Notes/Authentication and authorization MOC.md",
