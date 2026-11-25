@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Service worker cache.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Service worker cache"
             }
           }
         ]
@@ -154,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Service worker cache.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,6 +222,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Caching strategies MOC.md",
     "Notes/Service worker cache.md",
     "Notes/Progressive Web Apps (PWA).md",
     "Notes/Service workers.md",
@@ -242,7 +248,6 @@
     "Notes/Monorepo architecture.md",
     "Notes/Keyboard navigation and focus management.md",
     "Notes/Headless components.md",
-    "Notes/Scalability MOC.md",
     "Agent Skills",
     "attachments",
     "Notes",
